@@ -1,0 +1,25 @@
+/* Write your CSS here */
+
+.listitems {
+  height: 100vh;
+  width: 100%;
+  padding: 0px;
+  list-style-type: none;
+  height: 100px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.bg {
+  height: 100px;
+  text-align: center;
+}
+
+.input {
+}
+
+.u {
+  height: 100px;
+}
